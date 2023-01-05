@@ -60,3 +60,82 @@ a.link4 {
   width: 140%;
   height: auto;
 }
+
+@media (max-width: 900px) {
+  .scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    width: 90%;
+    padding-right: 650px;
+    margin-left: 30px;
+    background-color: #e1d8cf;
+    border-radius: 4%;
+  }
+  .item {
+    width: 250%;
+    height: auto;
+  }
+  .item2 {
+    width: 550%;
+    height: auto;
+  }
+  .item3 {
+    width: 320%;
+    height: auto;
+  }
+
+  a.link4 {
+    margin: 20px 0px 20px 30px;
+  }
+
+  .tekst {
+    margin-left: 25px;
+    max-width: 750px;
+  }
+
+  .photoshop_grid_1-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 80%;
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 650px) {
+  .scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+    width: 95%;
+    padding-right: 250px;
+    margin-left: 10px;
+    background-color: #e1d8cf;
+    border-radius: 4%;
+  }
+
+  .item {
+    width: 140%;
+    height: auto;
+  }
+  .item2 {
+    width: 300%;
+    height: auto;
+  }
+  .item3 {
+    width: 170%;
+    height: auto;
+  }
+
+  h2 {
+    font-size: 25px;
+  }
+
+  .tekst {
+    margin-left: 20px;
+    max-width: 350px;
+  }
+
+  a.link4 {
+    margin: 20px 0px 20px 10px;
+  }
+}
