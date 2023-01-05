@@ -162,11 +162,16 @@ a.link6 {
   }
 
   .item5 {
-    width: 350%;
+    width: 280%;
     height: auto;
   }
   .item6 {
     width: 215%;
+    height: auto;
+  }
+
+  .item7 {
+    width: 350%;
     height: auto;
   }
 
