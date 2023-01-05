@@ -29,7 +29,7 @@ body {
   line-height: 1.6;
   color: var(--tekst-color);
   background-color: var(--background-color);
-  overflow-x: scroll;
+  overflow: scroll;
 }
 
 /* Navigationsmenu */
@@ -171,9 +171,7 @@ footer {
     flex: 1 1 100%;
     flex-flow: column;
   }
-}
 
-@media (max-width: 650px) {
   /* Dropdown Content (Hidden by Default) */
   .dropdown-content {
     display: none;
@@ -185,5 +183,9 @@ footer {
     margin-left: 80px;
     margin-top: -100px;
     /* z-index: 1; */
+  }
+
+  footer {
+    font-size: 14px;
   }
 }
