@@ -24,6 +24,13 @@ h3 {
   margin-bottom: 20px;
 }
 
+.om_mig_tekst {
+  margin-inline: auto;
+  /*margin-left: 250px;*/
+  margin-top: 40px;
+  max-width: 1000px;
+}
+
 .om_mig_grid_1-1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -107,6 +114,10 @@ h3 {
 }
 
 @media (max-width: 900px) {
+  .om_mig_tekst {
+    /* margin-left: 25px;*/
+    max-width: 750px;
+  }
   .om_mig_grid_1-1 {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -151,6 +162,10 @@ h3 {
 }
 
 @media (max-width: 650px) {
+  .om_mig_tekst {
+    /*margin-left: 20px;*/
+    max-width: 350px;
+  }
   .om_mig_grid_1-1 {
     display: grid;
     grid-template-columns: 1fr 1fr;
