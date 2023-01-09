@@ -110,6 +110,7 @@ h3 {
   grid-template-columns: 1fr 1fr;
   width: 40%;
   margin-left: 450px;
+  margin-top: 40px;
   gap: 60px;
 }
 
