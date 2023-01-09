@@ -1,6 +1,6 @@
 body {
   background-color: var(--background-color);
-  background-image: url(/img/baggrund.webp);
+  background-image: url(img/baggrund.webp);
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -125,15 +125,15 @@ a.link4 {
   }
 
   .item {
-    width: 140%;
+    width: 100%;
     height: auto;
   }
   .item2 {
-    width: 300%;
+    width: 200%;
     height: auto;
   }
   .item3 {
-    width: 170%;
+    width: 120%;
     height: auto;
   }
 

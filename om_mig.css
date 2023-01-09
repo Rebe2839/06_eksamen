@@ -1,6 +1,6 @@
 body {
   background-color: var(--background-color);
-  background-image: url(/img/baggrund.webp);
+  background-image: url(img/baggrund.webp);
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -36,7 +36,8 @@ h3 {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   width: 55%;
-  margin-left: 350px;
+  margin-inline: auto;
+  /* margin-left: 350px;*/
   margin-top: 40px;
   padding: 60px;
   background-color: var(--background-color);
@@ -109,7 +110,8 @@ h3 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   width: 40%;
-  margin-left: 450px;
+  margin-inline: auto;
+  /*margin-left: 450px;*/
   margin-top: 40px;
   gap: 60px;
 }

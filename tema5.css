@@ -1,6 +1,6 @@
 body {
   background-color: var(--background-color);
-  background-image: url(/img/baggrund.webp);
+  background-image: url(img/baggrund.webp);
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -183,33 +183,33 @@ a.link7 {
   }
 
   .item {
-    width: 175%;
+    width: 110%;
     height: auto;
   }
   .item2 {
-    width: 320%;
+    width: 220%;
     height: auto;
   }
   .item3 {
-    width: 500%;
+    width: 350%;
     height: auto;
   }
   .item4 {
-    width: 280%;
+    width: 200%;
     height: auto;
   }
 
   .item5 {
-    width: 280%;
+    width: 200%;
     height: auto;
   }
   .item6 {
-    width: 215%;
+    width: 155%;
     height: auto;
   }
 
   .item7 {
-    width: 350%;
+    width: 260%;
     height: auto;
   }
 
