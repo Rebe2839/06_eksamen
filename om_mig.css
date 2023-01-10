@@ -26,7 +26,7 @@ h3 {
 
 .om_mig_tekst {
   margin-inline: auto;
-  /*margin-left: 250px;*/
+
   margin-top: 40px;
   max-width: 1000px;
 }
@@ -37,7 +37,7 @@ h3 {
   gap: 20px;
   width: 55%;
   margin-inline: auto;
-  /* margin-left: 350px;*/
+
   margin-top: 40px;
   padding: 60px;
   background-color: var(--background-color);
@@ -111,14 +111,13 @@ h3 {
   grid-template-columns: 1fr 1fr;
   width: 40%;
   margin-inline: auto;
-  /*margin-left: 450px;*/
+
   margin-top: 40px;
   gap: 60px;
 }
 
 @media (max-width: 900px) {
   .om_mig_tekst {
-    /* margin-left: 25px;*/
     max-width: 750px;
   }
   .om_mig_grid_1-1 {
@@ -166,7 +165,6 @@ h3 {
 
 @media (max-width: 650px) {
   .om_mig_tekst {
-    /*margin-left: 20px;*/
     max-width: 350px;
   }
   .om_mig_grid_1-1 {

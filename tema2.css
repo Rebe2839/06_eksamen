@@ -24,7 +24,7 @@ h3 {
   white-space: nowrap;
   width: 60%;
   padding-right: 650px;
-  /*margin-left: 300px;*/
+
   margin-inline: auto;
   background-color: #e1d8cf;
   border-radius: 4%;
@@ -36,34 +36,9 @@ h3 {
   font-size: 40px;
 }
 
-/*
-.dots {
-  position: absolute;
-  margin-top: 290px;
-  left: 50%;
-  transform: translateX(-50%);
-  display: inline-block;
-}
-
-.dot {
-  cursor: pointer;
-  width: 10px;
-  height: 10px;
-  margin: 0 2px;
-  margin-inline: 5px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-}
-
-.dot:hover {
-  background-color: #717171;
-}
-*/
-
 .tekst {
   margin-inline: auto;
-  /*margin-left: 250px;*/
+
   margin-top: 20px;
 
   max-width: 1000px;
@@ -116,7 +91,7 @@ a.link1_2 {
     white-space: nowrap;
     width: 90%;
     padding-right: 650px;
-    /*margin-left: 30px;*/
+
     margin-inline: auto;
     background-color: #e1d8cf;
     border-radius: 4%;
@@ -142,7 +117,6 @@ a.link1_2 {
   }
 
   .tekst {
-    /* margin-left: 25px;*/
     max-width: 750px;
   }
 }
@@ -153,7 +127,7 @@ a.link1_2 {
     white-space: nowrap;
     width: 95%;
     padding-right: 250px;
-    /*margin-left: 10px;*/
+
     margin-inline: auto;
     background-color: #e1d8cf;
     border-radius: 4%;
@@ -184,7 +158,6 @@ a.link1_2 {
   }
 
   .tekst {
-    /*margin-left: 20px;*/
     max-width: 350px;
   }
 }

@@ -26,7 +26,7 @@ h3 {
   white-space: nowrap;
   width: 60%;
   padding-right: 650px;
-  /*margin-left: 300px;*/
+
   margin-inline: auto;
   background-color: #e1d8cf;
   border-radius: 4%;
@@ -39,7 +39,6 @@ h3 {
 }
 
 .tekst {
-  /*margin-left: 250px;*/
   margin-inline: auto;
   margin-top: 20px;
 
@@ -111,7 +110,7 @@ a.link3 {
     white-space: nowrap;
     width: 90%;
     padding-right: 650px;
-    /*margin-left: 30px;*/
+
     margin-inline: auto;
     background-color: #e1d8cf;
     border-radius: 4%;
@@ -152,7 +151,6 @@ a.link3 {
   }
 
   .tekst {
-    /* margin-left: 25px;*/
     margin-inline: auto;
     max-width: 750px;
   }
@@ -172,7 +170,7 @@ a.link3 {
     white-space: nowrap;
     width: 95%;
     padding-right: 250px;
-    /*margin-left: 10px;*/
+
     margin-inline: auto;
     background-color: #e1d8cf;
     border-radius: 4%;
@@ -208,7 +206,6 @@ a.link3 {
   }
 
   .tekst {
-    /*margin-left: 20px;*/
     margin-inline: auto;
     max-width: 350px;
   }
